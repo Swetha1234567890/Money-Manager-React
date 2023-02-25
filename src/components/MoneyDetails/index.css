@@ -1,0 +1,80 @@
+/* Write your CSS here */
+.list-item-container {
+  display: flex;
+}
+
+.money-details-container1 {
+  background-color: #ecfccb;
+  border-color: #84cc16;
+  border-width: 1px;
+  border-radius: 8px;
+  border-style: solid;
+  display: flex;
+  height: 130px;
+  padding-top: 10px;
+  margin: 5px;
+  width: 260px;
+}
+
+.image1 {
+  height: 80px;
+  width: 80px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.money-details-container2 {
+  background-color: #cffafe;
+  border-color: #06b6d4;
+  border-width: 1px;
+  border-radius: 8px;
+  border-style: solid;
+  display: flex;
+  height: 130px;
+  padding-top: 10px;
+  margin: 5px;
+  width: 260px;
+}
+
+.image2 {
+  height: 80px;
+  width: 80px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.money-details-container3 {
+  background-color: #ede9fe;
+  border-color: #7c3aed;
+  border-width: 1px;
+  border-radius: 8px;
+  border-style: solid;
+  display: flex;
+  height: 130px;
+  padding-top: 10px;
+  margin: 5px;
+  width: 260px;
+}
+
+.image3 {
+  height: 80px;
+  width: 80px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.text {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.bal-amt-container {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.amount {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+}
